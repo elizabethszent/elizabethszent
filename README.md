@@ -21,3 +21,7 @@ Hello! My names Elizabeth and I'm a third year Computer Science Major. I started
 - 📫 How to reach me: elizsbethszentmiklossy@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love frogs!
+
+  Intermediate/Advanced: Python, Java, JavaFX, JavaScript
+
+  Begineer/Intermediate: C, C++
