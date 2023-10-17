@@ -1,4 +1,4 @@
-### Hi there 👋
+### About me
 
 <!--
 **elizabethszent/elizabethszent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! My names Elizabeth and I'm a third year Computer Science Major. I started out in Astrophysics and did 2 years of my bachlors degree before switching. I love space and sciences and everything that falls inbetween space and Computer science. 
+
+- 👯 I’m looking to collaborate on a science based project
+- 📫 How to reach me: elizsbethszentmiklossy@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love frorgs!
