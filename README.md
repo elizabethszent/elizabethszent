@@ -22,6 +22,6 @@ Hello! My names Elizabeth and I'm a third year Computer Science Major. I started
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love frogs!
 
-  Intermediate/Advanced: Python, Java, JavaFX, JavaScript, MatLab, R Studio, UTML
+  Intermediate/Advanced: Python, Java, JavaFX, JavaScript, MatLab, R Studio, UML
 
    Beginner/Intermediate: C, C++
