@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! My names Elizabeth and I'm a second year Computer Science Major. I started out in Astrophysics and did two years of my bachlors degree before switching. I love space, sciences and everything that falls inbetween space and Computer science. 
+Hello! My names Elizabeth and I'm a Computer Science Major. I started out in Astrophysics and did two years of my bachlors degree before switching. I love space, sciences and everything that falls inbetween space and Computer science. 
 
 - 👯 I’m looking to collaborate on a science based project
 - 📫 How to reach me: elizabethszentmiklossy@gmail.com or elizabeth.szentmiklo@ucalgary.ca
