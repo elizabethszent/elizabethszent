@@ -13,7 +13,7 @@
 ---
 
 ## 🛠 Tech Stack  
-💻 **Programming:** Python, Java, C, JavaScript, MATLAB, SQL  
+💻 **Programming:** Python, Java, C, C++ JavaScript, SQL  
 🛠 **Frameworks & Tools:** React, Node.js, MySQL, Git/GitHub, JUnit  
 ☁️ **Cloud & Databases:** Oracle Cloud, SQL, Database Management  
 
