@@ -15,11 +15,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Elizabeth Szentmiklossy, and I am a Computer Science student at the University of Calgary, with a Minor in Mathematics and a Concentration in Software Engineering.
-- 🔭 I’m currently working at ATCO IT as a Coputer Science Intern
-- 📫 How to reach me: elizabethszentmiklossy@gmail.com or elizabeth.szentmiklo@ucalgary.ca
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love frogs!
+👋 Hi, I'm Elizabeth Szentmiklossy!
+💻 Computer Science Student | 🎓 University of Calgary | 📍 Calgary, AB
+🔧 Software Engineering Concentration | 📊 Mathematics Minor
 
-Intermediate/Advanced: Python, Java, C, C++, SQL, JavaScript, CSS, React, HTML
-Experienced in: Assembly, Haskell, MATLAB
+🚀 About Me
+💡 Passionate about software development, algorithms, and cloud computing
+🎓 Previously studied Physics & Computer Science at UBC
+🔭 Currently working as an Information & Technology Intern at ATCO Energy
+🛰 CANOROCK 2023 Telemetry Team Lead – Developed a GUI in Dewesoft and Python-based data analysis
+🏆 Women in STEM Scholar | Canadian Space Agency Grant Recipient
+🛠 Tech Stack
+💻 Programming: Python, Java, C, JavaScript, MATLAB, SQL
+🛠 Frameworks & Tools: React, Node.js, MySQL, Git/GitHub, JUnit
+☁️ Cloud & Databases: Oracle Cloud, SQL, Database Management
+
+📫 Get in Touch
+✉️ Email: elizabethszentmiklossy@gmail.com | elizabeth.szentmiklo@ucalgary.ca
+🔗 GitHub: elizabethszent
+🌎 LinkedIn: https://www.linkedin.com/in/elizabeth-szentmiklossy-aabb19189/?originalSubdomain=ca
+⚡ Fun fact: I love frogs! 🐸
+
