@@ -1,4 +1,4 @@
-### About me
+ ### About me
 
 <!--
 **elizabethszent/elizabethszent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 💻 Computer Science Student | 🎓 University of Calgary | 📍 Calgary, AB
 🔧 Software Engineering Concentration | 📊 Mathematics Minor
 
-🚀 About Me
+🚀 About Me \n
 💡 Passionate about software development, algorithms, and cloud computing
 🎓 Previously studied Physics & Computer Science at UBC
 🔭 Currently working as an Information & Technology Intern at ATCO Energy
