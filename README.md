@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 🔭 Currently working as an Information & Technology Intern at ATCO Energy
 🛰 CANOROCK 2023 Telemetry Team Lead – Developed a GUI in Dewesoft and Python-based data analysis
 🏆 Women in STEM Scholar | Canadian Space Agency Grant Recipient
-🛠 Tech Stack
 💻 Programming: Python, Java, C, JavaScript, MATLAB, SQL
 🛠 Frameworks & Tools: React, Node.js, MySQL, Git/GitHub, JUnit
 ☁️ Cloud & Databases: Oracle Cloud, SQL, Database Management
