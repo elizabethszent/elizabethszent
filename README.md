@@ -1,4 +1,3 @@
-👋 Hi, I'm **Elizabeth Szentmiklossy**!  
 💻 **Computer Science Student** | 🎓 **University of Calgary** | 📍 **Calgary, AB**  
 🔧 **Software Engineering Concentration** | 📊 **Mathematics Minor**  
 
