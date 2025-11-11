@@ -21,7 +21,6 @@
 
 ## 📫 Get in Touch  
 ✉️ **Email:** [elizabethszentmiklossy@gmail.com](mailto:elizabethszentmiklossy@gmail.com) | [elizabeth.szentmiklo@ucalgary.ca](mailto:elizabeth.szentmiklo@ucalgary.ca)  
-🔗 **GitHub:** [elizabethszent](https://github.com/elizabethszent)  
 🌎 **LinkedIn:** [Elizabeth Szentmiklossy](https://www.linkedin.com/in/elizabeth-szentmiklossy-aabb19189/?originalSubdomain=ca)  
 
 ---
